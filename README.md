@@ -11,8 +11,11 @@
 ### JIRA API integration to update the results in JIRA after the test execution
 
 # Sample Cucumber Report
-
+<img src=https://github.com/Nikunj-Thakur/Cucumber-BDD-Framework/blob/main/Cucumber_Report_1.PNG>
 
 # Sample Extent Report
+<img src=https://github.com/Nikunj-Thakur/Cucumber-BDD-Framework/blob/main/ExtentReport_Page_1.PNG>
 
+# Sample Extent PDF Report
+<img src=https://github.com/Nikunj-Thakur/Cucumber-BDD-Framework/blob/main/Extent_PDF_Report_1.PNG>
 
