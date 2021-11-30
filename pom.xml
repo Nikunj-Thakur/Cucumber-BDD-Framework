@@ -86,7 +86,7 @@
 				<version>2.19.1</version>
 				<configuration>
 					<includes>
-						<include>**/*Test.class</include>
+						<include>Runner.class</include>
 					</includes>
 				</configuration>
 			</plugin>
